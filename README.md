@@ -23,4 +23,4 @@ So you've finished a lab or a project and want to push your work to GitHub?
   + When you're ready to push to your repository on github.com: `git push origin [branch name]` (if it's the first time you do this, add the flag `-u` after `git push`)
   
 
-<a href='https://learn.co/lessons/hs-git-basic-cheat-sheet' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-git-basic-cheat-sheet' title='Git Cheat Sheet'>Git Cheat Sheet</a> on Learn.co and start learning to code for free.</p>
